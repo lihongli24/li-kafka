@@ -6,18 +6,6 @@ import kafka.consumer.Consumer;
 import kafka.consumer.ConsumerConfig;
 import kafka.javaapi.consumer.ConsumerConnector;
 
-/**
- *
- *
- * @Project: performance
- * @File: KafkaConsumerFactory.java
- * @Date: 2015年1月14日
- * @Author: 周强
- * @Copyright: 版权所有 (C) 2015 中国移动 杭州研发中心.
- *
- * @注意：本内容仅限于中国移动内部传阅，禁止外泄以及用于其他的商业目的
- */
-
 public class KafkaConsumerFactory {
 
 	private final ConsumerConnector consumer;
